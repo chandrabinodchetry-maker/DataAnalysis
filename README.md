@@ -1,0 +1,1 @@
+We are building a web-scraping system for Irish job listings. The process will collect job data from selected websites, clean and refine the information, and automatically send an email update every two hours with the latest job opportunities.
